@@ -5,7 +5,7 @@ package cn.tmh.demo;
  */
 public class demo {
     public static void main(String[] args) {
-        System.out.print("dev push");
+        System.out.print("dev push2");
 
     }
 }
