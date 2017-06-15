@@ -5,9 +5,7 @@ package cn.tmh.demo;
  */
 public class demo {
     public static void main(String[] args) {
-        System.out.print("push master private");
-        System.out.print("create dev");
-        System.out.print("dev test1");
-//        改了一行代码
+        System.out.print("dev push");
+
     }
 }
